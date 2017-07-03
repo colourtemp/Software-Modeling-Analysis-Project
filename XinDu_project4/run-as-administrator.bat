@@ -1,0 +1,9 @@
+cd Repository\bin\Debug
+start Repository.exe
+cd ..\..\..\TestHarness\bin\Debug
+start TestHarness.exe
+cd ..\..\..\ThatWindow\bin\Debug
+start ThatWindow.exe
+cd ..\..\..\ThisWindow\bin\Debug
+start ThisWindow.exe
+cd ..\..\..
